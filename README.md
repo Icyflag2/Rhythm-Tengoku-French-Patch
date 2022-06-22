@@ -10,6 +10,14 @@ If your PC turns into a nuclear bomb and nukes the entire world... I don't know!
 # Rhythm Heaven Silver English Fan translation
 The Rhythm Tengoku Silver is a project started in 2008 to translate the exclusive JPN game Rhythm Tengoku in english for making it be playable for everyone, then was stopped in 2012 (and updated in 2017). In this time I decided to continue it.
 Feel free to contribute.
+
+# What we need for the french translation
+- Translators English>French
+- Dudes that can replace GBA Textures
+- Somebody with great abilities to code or has experienced GBA Rom Hacking.
+- Please contact me on Discord : Icyflag#2144
+- (or ShaffySwitcher : Shaffy#1977)
+
 # Credits
 * Thanks to W hat and the Rhythm Heaven Silver team for starting and making this project. 
 * Thanks to Malalaika for the help. 
